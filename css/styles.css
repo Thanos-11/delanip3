@@ -1,10 +1,26 @@
+body {
+    background-color: rgb(white);
 .sectionun {
-  background-image: url(/images/backgrounds/h_img.jpg);
+  background-image: url(../images/backgrounds/h_img.jpg);
   position: relative;
   text-align: center;
   height: 1071px;
   width: 1920;
   background-size: cover;
+  padding-top: 20%;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  color: whitesmoke;
+}
+.sectiondeux {
+  background-image: url(../images/backgrounds/s_image.jpg);
+  position: relative;
+  text-align: center;
+  height: 488px;
+  width: 1920;
+  background-size: cover;
+  color: whitesmoke;
   padding-top: 20%;
   padding-right: 30px;
   padding-bottom: 50px;
