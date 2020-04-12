@@ -1,4 +1,4 @@
-.sectionun {
+.sectionwahd {
   background-image: url(../images/backgrounds/h_img.jpg);
   position: relative;
   text-align: center;
@@ -11,11 +11,11 @@
   padding-left: 80px;
   color: whitesmoke;
 }
-.sectiontrois {
+.sectionthalath {
   text-align: center;
   padding: 7%;
 }
-.sectiondeux {
+.sectionithnin {
   background-image: url(../images/backgrounds/s_image.jpg);
   position: relative;
   text-align: center;
@@ -23,15 +23,18 @@
   width: 1920;
   background-size: cover;
   color: whitesmoke;
-  padding-top: 20%;
+  padding-top: 12%;
   padding-right: 30px;
   padding-bottom: 50px;
   padding-left: 80px;
 }
-.sectionquatre {
+.sectionarbaa {
   padding-top: 7%;
   padding-right: 30px;
   padding-bottom: 50px;
   padding-left: 80px;
+  text-align: center;
+}
+.sectionhamsa {
   text-align: center;
 }
