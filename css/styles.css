@@ -38,3 +38,12 @@
 .sectionhamsa {
   text-align: center;
 }
+.sectionsita {
+  background-image: url(../images/backgrounds/c_image.jpg);
+  position: relative;
+  text-align: center;
+  height: 683px;
+  width: 1920;
+  background-size: cover;
+  color: whitesmoke;
+}
