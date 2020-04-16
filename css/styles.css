@@ -1,20 +1,21 @@
-.sectionwahd {
+#sectionwahd {
   background-image: url(../images/backgrounds/h_img.jpg);
   position: relative;
   text-align: center;
-  height: 1071px;
-  width: 1920;
   background-size: cover;
   padding-top: 20%;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
   color: whitesmoke;
+  background-repeat: no-repeat;
 }
+.sectionwahdwnus {
+  padding-bottom: 20%;
+}
+
 .sectionthalath {
   text-align: center;
   padding: 7%;
 }
+
 .sectionithnin {
   background-image: url(../images/backgrounds/s_image.jpg);
   position: relative;
@@ -24,17 +25,34 @@
   background-size: cover;
   color: whitesmoke;
   padding-top: 12%;
-  padding-right: 30px;
   padding-bottom: 50px;
-  padding-left: 80px;
 }
+
 .sectionarbaa {
-  padding-top: 7%;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
   text-align: center;
 }
+
+.row {
+  columns: 3;
+  align-self: auto;
+}
+
+.un {
+  text-align: center;
+}
+
+.un p {
+  display: none;
+}
+
+.deux p {
+  display: none;
+}
+
+. p {
+  display: none;
+}
+
 .sectionhamsa {
   text-align: center;
 }
