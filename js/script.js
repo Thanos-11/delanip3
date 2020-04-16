@@ -1,15 +1,20 @@
 $(document).ready(function () {
-  $(".showun").click(function () {
-    $(".img-hiddenun").toggle();
+  $(".un p").hide();
+  $(".un").click(function () {
+    $(".un p").toggle();
+    $(".un img").toggle();
   });
 
-  $(".showdeux").click(function () {
-    $(".hidedeux").toggle();
-    $(".img-hiddendeux").toggle();
+  $(".deux p").hide();
+  $(".deux").click(function () {
+    $(".deux p").toggle();
+    $(".deux img").toggle();
   });
 
-  $(".showtrois").click(function () {
-    $(".img-hiddentrois").toggle();
+  $(".trois p").hide();
+  $(".trois").click(function () {
+    $(".trois p").toggle();
+    $(".trois img").toggle();
   });
 
   $("#sendButton").click(function () {
