@@ -40,10 +40,6 @@
   align-self: auto;
 }
 
-.un {
-  text-align: center;
-}
-
 .un p {
   display: none;
 }
@@ -58,6 +54,8 @@
 
 .sectionhamsa {
   text-align: center;
+  border: solid white;
+  cursor: pointer;
 }
 .sectionsita {
   background-image: url(../images/backgrounds/c_image.jpg);
