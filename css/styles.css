@@ -8,7 +8,9 @@
   background-repeat: no-repeat;
 }
 .sectionwahdwnus {
-  padding-bottom: 20%;
+  padding-top: 7%;
+  padding-bottom: 4%;
+  top: 50vh;
 }
 
 .sectionthalath {
@@ -30,6 +32,7 @@
 
 .sectionarbaa {
   text-align: center;
+  padding-top: 4%;
 }
 
 .row {
