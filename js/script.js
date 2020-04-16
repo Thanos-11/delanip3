@@ -17,6 +17,20 @@ $(document).ready(function () {
     $(".trois img").toggle();
   });
 
+  $(".col-md-3")
+    .mouseover(function () {
+      $(this).css({
+        opacity: ".5",
+        color: "green",
+        "justifyContent: ": "center",
+      });
+      $(this).children("span.imgun").show();
+    })
+    .mouseout(function () {
+      $(this).css({ opacity: "4" });
+      $(this).children("span.imgun").hide();
+    });
+
   $("#sendButton").click(function () {
     var names = $("#names").val();
     var email = $("#email").val();
