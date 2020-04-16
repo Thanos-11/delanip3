@@ -1,5 +1,5 @@
 #sectionwahd {
-  background-image: url(../images/backgrounds/h_img.jpg);
+  background-image: url(/images/h_img.jpg);
   position: relative;
   text-align: center;
   background-size: cover;
@@ -19,7 +19,7 @@
 }
 
 .sectionithnin {
-  background-image: url(../images/backgrounds/s_image.jpg);
+  background-image: url(/images/s_image.jpg);
   position: relative;
   text-align: center;
   height: 488px;
@@ -58,7 +58,7 @@
   cursor: pointer;
 }
 .sectionsita {
-  background-image: url(../images/backgrounds/c_image.jpg);
+  background-image: url(/images/c_image.jpg);
   position: relative;
   text-align: center;
   height: 683px;
