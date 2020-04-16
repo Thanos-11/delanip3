@@ -25,4 +25,4 @@ My GitHub link is https://github.com/Thanos-11
 
 ### License
 License
-The project is under MIT license Copyright & copy; 2019.All rigths reserved
+The project is under MIT license Copyright & copy; 2020.All rigths reserved
